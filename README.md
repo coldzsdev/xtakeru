@@ -1,8 +1,9 @@
 ### Hi, im Takeru! 👋
 
+### - Developer
 - C++
 - js
 - batch
 - python
 - ts
-Developer
+
