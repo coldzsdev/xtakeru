@@ -5,5 +5,4 @@
 - js
 - batch
 - python
-- ts
 
